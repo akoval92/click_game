@@ -1,0 +1,21 @@
+.card {
+  background: #fff;
+  border-radius: 2px;
+  height: 200px;
+  
+  
+  width: 200px;
+ 
+
+}
+/* 
+.card > .img-container {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+}
+.card > .img-container > img {
+  width: 60%
+} */
+
