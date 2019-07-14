@@ -5,7 +5,7 @@ function ImageCard(props) {
   return (
     <div className="card">
       <div className="img-container">
-        <img src={props.image} />
+        <img className ="button" className="btn btn-outline-secondary" alt={props.id} src={props.image} />
       </div>
     </div>
   );
