@@ -1,21 +1,17 @@
-.card {
-  background: #fff;
-  border-radius: 2px;
-  height: 200px;
-  
-  
-  width: 200px;
- 
+.image {
 
+  height: 450px;
+  width:450px;
 }
-/* 
-.card > .img-container {
-  height: 60%;
-  overflow: hidden;
+
+.instructions {
   text-align: center;
-  background:#6CADDC;
+  border-style: solid;
+  padding: 10px;
 }
-.card > .img-container > img {
-  width: 60%
-} */
+#score {
+  border-style: double;
+  text-align:center;
+  padding: 6px;
+}
 
