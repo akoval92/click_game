@@ -1,20 +1,63 @@
 [
-    {
-      "id": 1,
-      "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/rolling-on-the-floor-laughing_1f923.png",
-      "isClicked": false
-    },
-    {
-      "id": 2,
-      "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/dizzy-face_1f635.png",
-      "isClicked": false
-    },
-    {
-      "id": 3,
-      "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/nerd-face_1f913.png",
-      "isClicked": false
-    }
-   
+  {
+    "id": 1,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/rolling-on-the-floor-laughing_1f923.png",
+    "isClicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/dizzy-face_1f635.png",
+    "isClicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/nerd-face_1f913.png",
+    "isClicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/grinning-face-with-one-large-and-one-small-eye_1f92a.png",
+    "isClicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/face-with-one-eyebrow-raised_1f928.png",
+    "isClicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/shocked-face-with-exploding-head_1f92f.png",
+    "isClicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/face-with-cowboy-hat_1f920.png",
+    "isClicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/smiling-face-with-sunglasses_1f60e.png",
+    "isClicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/upside-down-face_1f643.png",
+    "isClicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/thinking-face_1f914.png",
+    "isClicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/face-with-rolling-eyes_1f644.png",
+    "isClicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/146/unamused-face_1f612.png",
+    "isClicked": false
+  }
+ 
 ]
-
-

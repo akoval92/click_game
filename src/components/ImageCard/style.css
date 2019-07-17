@@ -1,26 +1,31 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .instructions {
-  text-align: center;
-  border-style: solid;
-  padding: 10px;
+.card {
+  background: rgb(95, 233, 221);
+  height: 250px;
+  width: 280px;
+  text-align: left;
+  margin-bottom: 30px;
 }
+
+.button-container {
+  padding-top: 50px;
+  text-align: center;
+  background:rgb(95, 233, 221);
+}
+
+.container {
+  background:rgb(255, 206, 230);
+} 
+
+  .game-text {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
 #score {
-  border-style: double;
-  text-align:center;
-  padding: 6px;
-} */
+  margin-left: 370px;
+}
+
+#high-score {
+  margin-left: 100px;
+}
 
